@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrdersSvc", "OrdersSvc\OrdersSvc.csproj", "{EADEFA5A-E80B-49AA-AF43-7FE928D909ED}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupMamoliOrders", "SetupMamoliOrders\SetupMamoliOrders.vdproj", "{B1C2FC6C-AABC-4A79-A74B-B03A3503C7A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EADEFA5A-E80B-49AA-AF43-7FE928D909ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EADEFA5A-E80B-49AA-AF43-7FE928D909ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EADEFA5A-E80B-49AA-AF43-7FE928D909ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EADEFA5A-E80B-49AA-AF43-7FE928D909ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1C2FC6C-AABC-4A79-A74B-B03A3503C7A1}.Debug|Any CPU.ActiveCfg = Debug
+		{B1C2FC6C-AABC-4A79-A74B-B03A3503C7A1}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

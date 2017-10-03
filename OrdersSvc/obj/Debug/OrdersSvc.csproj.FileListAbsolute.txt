@@ -1,0 +1,17 @@
+E:\00.WORK\01.SVILUPPO\MAMOLI\sviluppo\OrdersSvc\OrdersSvc\bin\Debug\OrdersSvc.exe.config
+E:\00.WORK\01.SVILUPPO\MAMOLI\sviluppo\OrdersSvc\OrdersSvc\obj\Debug\OrdersSvc.ProjectInstaller.resources
+E:\00.WORK\01.SVILUPPO\MAMOLI\sviluppo\OrdersSvc\OrdersSvc\obj\Debug\OrdersSvc.csproj.GenerateResource.Cache
+E:\00.WORK\01.SVILUPPO\MAMOLI\sviluppo\OrdersSvc\OrdersSvc\bin\Debug\OrdersSvc.exe
+E:\00.WORK\01.SVILUPPO\MAMOLI\sviluppo\OrdersSvc\OrdersSvc\bin\Debug\OrdersSvc.pdb
+E:\00.WORK\01.SVILUPPO\MAMOLI\sviluppo\OrdersSvc\OrdersSvc\obj\Debug\OrdersSvc.exe
+E:\00.WORK\01.SVILUPPO\MAMOLI\sviluppo\OrdersSvc\OrdersSvc\obj\Debug\OrdersSvc.pdb
+E:\00.WORK\01.SVILUPPO\MAMOLI\sviluppo\OrdersSvc\OrdersSvc\obj\Debug\OrdersSvc.csproj.CoreCompileInputs.cache
+E:\00.WORK\01.SVILUPPO\MAMOLI\sviluppo\OrdersSvc\Mamoli\OrdersSvc\bin\Debug\OrdersSvc.exe.config
+E:\00.WORK\01.SVILUPPO\MAMOLI\sviluppo\OrdersSvc\Mamoli\OrdersSvc\bin\Debug\OrdersSvc.exe
+E:\00.WORK\01.SVILUPPO\MAMOLI\sviluppo\OrdersSvc\Mamoli\OrdersSvc\bin\Debug\OrdersSvc.pdb
+E:\00.WORK\01.SVILUPPO\MAMOLI\sviluppo\OrdersSvc\Mamoli\OrdersSvc\obj\Debug\OrdersSvc.csprojResolveAssemblyReference.cache
+E:\00.WORK\01.SVILUPPO\MAMOLI\sviluppo\OrdersSvc\Mamoli\OrdersSvc\obj\Debug\OrdersSvc.ProjectInstaller.resources
+E:\00.WORK\01.SVILUPPO\MAMOLI\sviluppo\OrdersSvc\Mamoli\OrdersSvc\obj\Debug\OrdersSvc.csproj.GenerateResource.Cache
+E:\00.WORK\01.SVILUPPO\MAMOLI\sviluppo\OrdersSvc\Mamoli\OrdersSvc\obj\Debug\OrdersSvc.csproj.CoreCompileInputs.cache
+E:\00.WORK\01.SVILUPPO\MAMOLI\sviluppo\OrdersSvc\Mamoli\OrdersSvc\obj\Debug\OrdersSvc.exe
+E:\00.WORK\01.SVILUPPO\MAMOLI\sviluppo\OrdersSvc\Mamoli\OrdersSvc\obj\Debug\OrdersSvc.pdb

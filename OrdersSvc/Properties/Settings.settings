@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="OrdersSvc.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="UriDownload" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ftp://kwc-mamoli-ftp.kwc.com/KWC_to_Mamoli</Value>
+    </Setting>
+    <Setting Name="UriUpload" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ftp://kwc-mamoli-ftp.kwc.com/Mamoli_to_KWC</Value>
+    </Setting>
+    <Setting Name="User" Type="System.String" Scope="User">
+      <Value Profile="(Default)">data-exchange@kwc-mamoli-ftp.kwc.com</Value>
+    </Setting>
+    <Setting Name="Pwd" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ZUt\$V%wm+$W</Value>
+    </Setting>
+    <Setting Name="RefreshIn" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="RefreshOut" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="CnStriSeries" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Dsn=BLADE;system=BLADE;uid=QSECOFR;dbq=MAMOLIORDS;dftpkglib=QGPL;languageid=ENU;pkg=QGPL/DEFAULT(IBM),2,0,1,0,512;translate=1;QUERYTIMEOUT=0;PREFETCH=1;pwd=secblade</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
